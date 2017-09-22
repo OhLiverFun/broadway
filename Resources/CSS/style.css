@@ -39,7 +39,7 @@ p {
   font-weight: bold;
 }
 
-.nav-list {
+a {
   text-decoration: underline;
 }
 
@@ -48,4 +48,8 @@ p {
   color: white;
   font-size: 11px;
   background-color: dimgrey;
+}
+
+.footer {
+  text-decoration: underline;
 }
