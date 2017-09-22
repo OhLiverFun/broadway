@@ -17,6 +17,10 @@ h3 {
   font-weight: bold;
 }
 
+p {
+  font-size: 14px;
+}
+
 #second-heading {
   color: white;
   font-size: 23px;
@@ -37,4 +41,11 @@ h3 {
 
 .nav-list {
   text-decoration: underline;
+}
+
+#footer {
+  text-align: left;
+  color: white;
+  font-size: 11px;
+  background-color: dimgrey;
 }
